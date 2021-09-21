@@ -1,0 +1,6 @@
+module Pods_QuizizzReactNativeTest1_QuizizzReactNativeTest1Tests {
+  umbrella header "Pods-QuizizzReactNativeTest1-QuizizzReactNativeTest1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
